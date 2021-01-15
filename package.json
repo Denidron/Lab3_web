@@ -1,0 +1,14 @@
+{
+  "name": "lab3_web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Denis Klychnikov",
+  "license": "",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
